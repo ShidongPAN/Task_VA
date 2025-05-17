@@ -1,0 +1,10 @@
+1.What is the weather in CITY.\\
+2.What is the date today?\\
+3.Open YouTube search for Baby Shark.\\
+4.Give some music suggestion while doing sports.\\
+5.What is the weather of next week in CITY?\\
+6.What is the trending movie?\\
+7.Remind me on next Friday go to Supermarket at eight in the morning.\\
+8.Set an alarm for tomorrow morning seven o'clock.\\
+9.Suggest a restaurant in CITY for dinner.\\
+10.Make a phone call to PERSON in the contacts.
