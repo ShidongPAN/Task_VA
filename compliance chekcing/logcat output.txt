@@ -1,0 +1,562 @@
+08-02 01:19:18.438  1133 16588 D CCodecBufferChannel: [c2.android.mp3.decoder#855] Created input block pool with allocatorID 16 => poolID 34 - OK (0)
+08-02 01:19:18.439  1133 16588 I CCodecBufferChannel: [c2.android.mp3.decoder#855] Created output block pool with allocatorID 16 => poolID 74 - OK
+08-02 01:19:18.439  1133 16588 D CCodecBufferChannel: [c2.android.mp3.decoder#855] Configured output block pool ids 74 => OK
+08-02 01:19:18.440  1158 16590 D SimpleC2Component: Using output block pool with poolID 74 => got 74 - 0
+08-02 01:19:18.441  1158 16590 I C2SoftMp3Dec: Reconfiguring decoder: 0->24000 Hz, 0->1 channels
+08-02 01:19:18.446  1022 22332 D AudioFlinger: Client defaulted notificationFrames to 6000 for frameCount 12000
+08-02 01:19:18.452  1604  2282 E AppOps  : Operation not found: uid=1041 pkg=audioserver(null) op=WAKE_LOCK
+08-02 01:19:18.509   945  4039 D audio_hw_patch: low-latency-playback routing:
+08-02 01:19:18.509   945  4039 D audio_hw_patch: dev: 0x400000
+08-02 01:19:18.510  1022  1644 D audioserver: logFgsApiEnd: FGS Logger Transaction failed, -129
+08-02 01:19:18.510  1022  1644 D audioserver: logFgsApiBegin: FGS Logger Transaction failed, -129
+08-02 01:19:18.525  1022 22332 D audioserver: logFgsApiBegin: FGS Logger Transaction failed, -129
+08-02 01:19:18.538 20125 20125 D WebViewRender: initWebView: create WebView by act
+08-02 01:19:18.543  1133 16585 D AudioTrack: getTimestamp_l(526): device stall time corrected using current time 28056456236068
+08-02 01:19:18.543   945   945 D audio_hw_soundtrigger: updated Stream 3 active in soundtrigger
+08-02 01:19:18.543   945   945 D audio_hw_output_stream: update stream 3 active 1 gain 0.000000
+08-02 01:19:18.554 20125 20125 E droid.phonelink: Invalid resource ID 0x1f000008.
+08-02 01:19:18.555 20125 20125 E droid.phonelink: Invalid resource ID 0x1f000008.
+08-02 01:19:18.557 20125 16602 D TrafficStats: tagSocket(389) with statsTag=0xffffffff, statsUid=-1
+08-02 01:19:18.559   945   945 D audio_hw_soundtrigger: updated Stream 3 active in soundtrigger
+08-02 01:19:18.559   945   945 D audio_hw_output_stream: update stream 3 active 1 gain 0.033283
+08-02 01:19:18.561 20125 16600 D TrafficStats: tagSocket(393) with statsTag=0xffffffff, statsUid=-1
+08-02 01:19:18.568 20125 16603 D TrafficStats: tagSocket(387) with statsTag=0xffffffff, statsUid=-1
+08-02 01:19:18.576 20125 20125 E droid.phonelink: Invalid resource ID 0x1f000008.
+08-02 01:19:18.592 20125 20360 D TrafficStats: tagSocket(395) with statsTag=0xffffffff, statsUid=-1
+08-02 01:19:18.597 20125 20125 D APSAndroidShared: Logging custom event
+08-02 01:19:18.597 20125 20125 D APSAndroidShared: Logging adapter event
+08-02 01:19:18.597 20125 20125 D APSAndroidShared: Logging perf metrics event
+08-02 01:19:18.607  3110  4055 I AiAiEcho: SmartspaceNotificationPredictor no parser can handle this notification or notification is invalid
+08-02 01:19:18.608  1604  2570 D FileUtils: Rounded bytes from 118998429696 to 128000000000
+08-02 01:19:18.623 25297 31829 I DynamiteModule: Considering local module com.google.android.gms.ads.dynamite:0 and remote module com.google.android.gms.ads.dynamite:242402501
+08-02 01:19:18.623 25297 31829 I DynamiteModule: Selected remote version of com.google.android.gms.ads.dynamite, version >= 242402501
+08-02 01:19:18.630   535   535 W gralloc4: Unable to set buffer name VRI[ScreenDecorOverlay]#137(BLAST Consumer)137: File name too long
+08-02 01:19:18.633   535   535 W gralloc4: Unable to set buffer name VRI[ScreenDecorOverlay]#137(BLAST Consumer)137: File name too long
+08-02 01:19:18.633  1604  1692 V WindowManager: Loading animations: layout params pkg=com.android.systemui resId=0x0
+08-02 01:19:18.633   535   535 W gralloc4: Unable to set buffer name VRI[ScreenDecorOverlay]#137(BLAST Consumer)137: File name too long
+08-02 01:19:18.633   535   535 W gralloc4: Unable to set buffer name VRI[ScreenDecorOverlay]#137(BLAST Consumer)137: File name too long
+08-02 01:19:18.636 25297 16324 W SQLiteLog: (28) double-quoted string literal: "1722352758636"
+08-02 01:19:18.636 25297 16324 W SQLiteLog: (28) double-quoted string literal: "1"
+08-02 01:19:18.647 20125 16604 D TrafficStats: tagSocket(462) with statsTag=0xffffffff, statsUid=-1
+08-02 01:19:18.648 25297 31829 I DynamiteModule: Considering local module com.google.android.gms.ads.dynamite:0 and remote module com.google.android.gms.ads.dynamite:242402501
+08-02 01:19:18.648 25297 31829 I DynamiteModule: Selected remote version of com.google.android.gms.ads.dynamite, version >= 242402501
+08-02 01:19:18.658 25297 16328 W SQLiteLog: (28) double-quoted string literal: "1722352758658"
+08-02 01:19:18.658 25297 16328 W SQLiteLog: (28) double-quoted string literal: "1"
+08-02 01:19:18.677 25297 25297 I Ads     : Received log message: <Google:HTML> You are currently using version 242402999.241199000.1 of the SDK, which is out of date. Please consider updating your SDK to the most recent SDK version to get the latest features and bug fixes. The latest SDK can be installed from https://googlemobileadssdk.page.link/android-install-instructions. More information about the SDK deprecation schedule is available at https://developers.google.com/admob/android/deprecation.
+08-02 01:19:18.684 20125 16548 W Ads     : Not retrying to fetch app settings
+08-02 01:19:18.696  1604  2534 D StorageStatsService: getFreeBytes: 103613374464
+08-02 01:19:18.708 20125 16553 W Ads     : Not retrying to fetch app settings
+08-02 01:19:18.807 16028 16066 I FA      : Application backgrounded at: timestamp_millis: 1722525556807
+08-02 01:19:18.904 20125 16596 W Settings: Setting adb_enabled has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+08-02 01:19:18.905 20125 16596 D BatteryDataWatcher: obtainCurrentState: registerReceiver result is Intent { act=android.intent.action.BATTERY_CHANGED flg=0x70000010 pkg=com.android.systemui (has extras) }
+08-02 01:19:18.909 20125 20125 E droid.phonelink: Invalid resource ID 0x1f000008.
+08-02 01:19:18.910 20125 32143 W MediaPlayer: Use of stream types is deprecated for operations other than volume control
+08-02 01:19:18.911 20125 32143 W MediaPlayer: See the documentation of setAudioStreamType() for what to use instead with android.media.AudioAttributes to qualify your playback use case
+08-02 01:19:18.912  1133  1181 D NuPlayerDriver: NuPlayerDriver(0xb400007a05f66b50) created, clientPid(20125)
+08-02 01:19:18.915 20125 16612 W Settings: Setting adb_enabled has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+08-02 01:19:18.915 20125 16596 W Settings: Setting adb_enabled has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+08-02 01:19:18.916   474   474 I hwservicemanager: getTransport: Cannot find entry android.hardware.media.omx@1.0::IOmx/default in either framework or device VINTF manifest.
+08-02 01:19:18.916  1133  1181 D MediaPlayerService: OMX service is not available
+08-02 01:19:18.908 20125 20125 W ssdk_handler: type=1400 audit(0.0:61765): avc:  denied  { search } for  name="input" dev="tmpfs" ino=971 scontext=u:r:untrusted_app_32:s0:c245,c256,c512,c768 tcontext=u:object_r:input_device:s0 tclass=dir permissive=0 app=com.customsolutions.android.phonelink
+08-02 01:19:18.923 20125 20125 E droid.phonelink: Invalid resource ID 0x2f000057.
+08-02 01:19:18.923 20125 20125 E droid.phonelink: Invalid resource ID 0x2f000056.
+08-02 01:19:18.923 20125 20125 E droid.phonelink: Invalid resource ID 0x1f00001e.
+08-02 01:19:18.928 20125 16596 W Settings: Setting adb_enabled has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+08-02 01:19:18.929 20125 21411 D TrafficStats: tagSocket(378) with statsTag=0x0, statsUid=-1
+08-02 01:19:18.932  1133  6588 D SurfaceUtils: connecting to surface 0xb400007b55f55440, reason setVideoSurfaceTexture
+08-02 01:19:18.932  1133 16627 D NuPlayer: onSetVideoSurface(0xb400007b55f53220, no video decoder)
+08-02 01:19:18.932 20125 32143 W MediaPlayer: setScreenOnWhilePlaying(true) is ineffective without a SurfaceHolder
+08-02 01:19:18.936 20227 20736 E chromium: [ERROR:tile_manager.cc(985)] WARNING: tile memory limits exceeded, some content may not draw
+08-02 01:19:18.937 20227 20736 E chromium: [ERROR:tile_manager.cc(985)] WARNING: tile memory limits exceeded, some content may not draw
+08-02 01:19:18.936 20125 20125 W ssdk_handler: type=1400 audit(0.0:61766): avc:  denied  { search } for  name="input" dev="tmpfs" ino=971 scontext=u:r:untrusted_app_32:s0:c245,c256,c512,c768 tcontext=u:object_r:input_device:s0 tclass=dir permissive=0 app=com.customsolutions.android.phonelink
+08-02 01:19:18.945 20125 16624 D TrafficStats: tagSocket(470) with statsTag=0xffffffff, statsUid=-1
+08-02 01:19:18.952 20125 20125 W ssdk_handler: type=1400 audit(0.0:61767): avc:  denied  { search } for  name="input" dev="tmpfs" ino=971 scontext=u:r:untrusted_app_32:s0:c245,c256,c512,c768 tcontext=u:object_r:input_device:s0 tclass=dir permissive=0 app=com.customsolutions.android.phonelink
+08-02 01:19:18.956 20125 21517 D TrafficStats: tagSocket(522) with statsTag=0xffffffff, statsUid=-1
+08-02 01:19:18.973 20125 16596 D TrafficStats: tagSocket(468) with statsTag=0xffffffff, statsUid=-1
+08-02 01:19:18.968 20125 20125 W ssdk_handler: type=1400 audit(0.0:61768): avc:  denied  { search } for  name="input" dev="tmpfs" ino=971 scontext=u:r:untrusted_app_32:s0:c245,c256,c512,c768 tcontext=u:object_r:input_device:s0 tclass=dir permissive=0 app=com.customsolutions.android.phonelink
+08-02 01:19:18.983 20125 16612 D TrafficStats: tagSocket(466) with statsTag=0xffffffff, statsUid=-1
+08-02 01:19:19.011 20125 20125 D APSAndroidShared: Logging perf metrics event
+08-02 01:19:19.019  1172  1172 D AOC     : F1:[Idle Tracker] long no idle:[0] average between idle:[3.313334ms] max no idle:[52.715742ms]
+08-02 01:19:19.035 20125 20125 D DynamitePackage: Instantiating com.google.android.gms.ads.ChimeraAdManagerCreatorImpl
+08-02 01:19:19.037 20125 20125 I Ads     : Use RequestConfiguration.Builder().setTestDeviceIds(Arrays.asList("254956710822A839C5EAD7CD7F398689")) to get test ads on this device.
+08-02 01:19:19.104  1127 32323 I SampleTable: There are reordered frames present.
+08-02 01:19:19.108  1127 32323 D MediaBufferGroup: creating MemoryDealer
+08-02 01:19:19.114  1133 16627 I GenericSource: start
+08-02 01:19:19.132  1133 16659 D CCodec  : allocate(c2.exynos.hevc.decoder)
+08-02 01:19:19.134  1604  1604 W AccessibilityManagerService:  wait for adding window timeout: 3
+08-02 01:19:19.135  1133 16661 D CCodec  : allocate(c2.android.aac.decoder)
+08-02 01:19:19.136  1133 16661 I CCodec  : setting up 'default' as default (vendor) store
+08-02 01:19:19.141  1133 16661 I CCodec  : Created component [c2.android.aac.decoder]
+08-02 01:19:19.143  1133 16659 I CCodec  : setting up 'default' as default (vendor) store
+08-02 01:19:19.143  1133 16661 D CCodecConfig: read media type: audio/mp4a-latm
+08-02 01:19:19.144   998  2230 I samsung.hardware.media.c2@1.2-service: missing struct descriptor #Param::CoreIndex(--002) for field mastering of struct #Param::CoreIndex(--180a)
+08-02 01:19:19.144   998  2230 I samsung.hardware.media.c2@1.2-service: missing struct descriptor #Param::CoreIndex(--002) for field mastering of struct #Param::CoreIndex(--180a)
+08-02 01:19:19.144   998  2230 W ColorUtils: expected specified color aspects (0:0:0:0)
+08-02 01:19:19.145  1133 16659 I CCodec  : Created component [c2.exynos.hevc.decoder]
+08-02 01:19:19.146  1133 16659 D CCodecConfig: read media type: video/hevc
+08-02 01:19:19.146  1133 16661 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.max-count.values
+08-02 01:19:19.147  1133 16661 D ReflectedParamUpdater: extent() != 1 for single value type: output.subscribed-indices.values
+08-02 01:19:19.147  1133 16661 D ReflectedParamUpdater: extent() != 1 for single value type: input.buffers.allocator-ids.values
+08-02 01:19:19.147  1133 16661 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.allocator-ids.values
+08-02 01:19:19.147  1133 16661 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.allocator-ids.values
+08-02 01:19:19.147  1133 16661 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+08-02 01:19:19.147  1133 16661 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.pool-ids.values
+08-02 01:19:19.149  1133 16659 D ReflectedParamUpdater: extent() != 1 for single value type: output.subscribed-indices.values
+08-02 01:19:19.149  1133 16659 D ReflectedParamUpdater: extent() != 1 for single value type: input.buffers.allocator-ids.values
+08-02 01:19:19.149  1133 16659 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.allocator-ids.values
+08-02 01:19:19.150  1133 16659 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+08-02 01:19:19.150  1133 16661 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+08-02 01:19:19.150  1133 16661 D CCodecConfig: c2 config diff is Dict {
+08-02 01:19:19.150  1133 16661 D CCodecConfig:   c2::u32 coded.aac-packaging.value = 0
+08-02 01:19:19.150  1133 16661 D CCodecConfig:   c2::u32 coded.bitrate.value = 64000
+08-02 01:19:19.150  1133 16661 D CCodecConfig:   c2::u32 coded.pl.level = 0
+08-02 01:19:19.150  1133 16661 D CCodecConfig:   c2::u32 coded.pl.profile = 8192
+08-02 01:19:19.150  1133 16661 D CCodecConfig:   c2::i32 coding.drc.album-mode.value = 0
+08-02 01:19:19.150  1133 16661 D CCodecConfig:   c2::float coding.drc.attenuation-factor.value = 1
+08-02 01:19:19.150  1133 16661 D CCodecConfig:   c2::float coding.drc.boost-factor.value = 1
+08-02 01:19:19.150  1133 16661 D CCodecConfig:   c2::i32 coding.drc.compression-mode.value = 3
+08-02 01:19:19.150  1133 16661 D CCodecConfig:   c2::i32 coding.drc.effect-type.value = 3
+08-02 01:19:19.150  1133 16661 D CCodecConfig:   c2::float coding.drc.encoded-level.value = 0.25
+08-02 01:19:19.150  1133 16661 D CCodecConfig:   c2::float coding.drc.reference-level.value = -16
+08-02 01:19:19.150  1133 16661 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 8192
+08-02 01:19:19.150  1133 16661 D CCodecConfig:   c2::u32 input.delay.value = 0
+08-02 01:19:19.150  1133 16661 D CCodecConfig:   string input.media-type.value = "audio/mp4a-latm"
+08-02 01:19:19.150  1133 16661 D CCodecConfig:   c2::u32 output.delay.value = 2
+08-02 01:19:19.150  1133 16661 D CCodecConfig:   c2::float output.drc.output-loudness.value = 0.25
+08-02 01:19:19.150  1133 16661 D CCodecConfig:   string output.media-type.value = "audio/raw"
+08-02 01:19:19.150  1133 16661 D CCodecConfig:   c2::u32 raw.channel-count.value = 1
+08-02 01:19:19.150  1133 16661 D CCodecConfig:   c2::u32 raw.channel-mask.value = 0
+08-02 01:19:19.150  1133 16661 D CCodecConfig:   c2::u32 raw.max-channel-count.value = 8
+08-02 01:19:19.150  1133 16661 D CCodecConfig:   c2::u32 raw.sample-rate.value = 44100
+08-02 01:19:19.150  1133 16661 D CCodecConfig: }
+08-02 01:19:19.151  1133 16661 D CCodec  : [c2.android.aac.decoder] buffers are bound to CCodec for this session
+08-02 01:19:19.151  1133 16661 D CCodecConfig: no c2 equivalents for durationUs
+08-02 01:19:19.151  1133 16661 D CCodecConfig: no c2 equivalents for track-id
+08-02 01:19:19.151  1133 16661 D CCodecConfig: no c2 equivalents for language
+08-02 01:19:19.151  1133 16661 D CCodecConfig: no c2 equivalents for encoder-delay
+08-02 01:19:19.151  1133 16661 D CCodecConfig: no c2 equivalents for encoder-padding
+08-02 01:19:19.151  1133 16661 D CCodecConfig: no c2 equivalents for flags
+08-02 01:19:19.152  1133 16659 D ReflectedParamUpdater: ignored struct field coded.color-format.locations
+08-02 01:19:19.152  1133 16661 D CCodecConfig: config failed => CORRUPTED
+08-02 01:19:19.154  1133 16661 D CCodecConfig: c2 config diff is   c2::u32 coded.bitrate.value = 32040
+08-02 01:19:19.154  1133 16661 D CCodecConfig:   c2::u32 coded.pl.profile = 8201
+08-02 01:19:19.154  1133 16661 D CCodecConfig:   c2::u32 raw.sample-rate.value = 22050
+08-02 01:19:19.154  1133 16659 D CCodecConfig: ignoring local param raw.size (0xd2001800) as it is already supported
+08-02 01:19:19.155  1133 16659 D CCodecConfig: ignoring local param default.color (0x5200180b) as it is already supported
+08-02 01:19:19.155  1133 16659 D CCodecConfig: ignoring local param raw.hdr-static-info (0xd200180a) as it is already supported
+08-02 01:19:19.155  1133 16661 W Codec2Client: query -- param skipped: index = 1107298332.
+08-02 01:19:19.155  1133 16661 D CCodec  : client requested max input size 287, which is smaller than what component recommended (8192); overriding with component recommendation.
+08-02 01:19:19.155  1133 16661 W CCodec  : This behavior is subject to change. It is recommended that app developers double check whether the requested max input size is in reasonable range.
+08-02 01:19:19.155  1133 16661 D CCodec  : encoding statistics level = 0
+08-02 01:19:19.155  1133 16661 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t aac-drc-album-mode = 0
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t aac-drc-boost-level = 127
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t aac-drc-cut-level = 127
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t aac-drc-effect-type = 3
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t aac-encoded-target-level = -1
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t aac-max-output-channel_count = 8
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t aac-target-ref-level = 64
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t bitrate = 32040
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t channel-count = 1
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t channel-mask = 0
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t level = 0
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t max-input-size = 8192
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t max-output-channel-count = 8
+08-02 01:19:19.155  1133 16661 D CCodec  :   string mime = "audio/mp4a-latm"
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t profile = 29
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t sample-rate = 22050
+08-02 01:19:19.155  1133 16661 D CCodec  : }
+08-02 01:19:19.155  1133 16661 D CCodec  : setup formats output: AMessage(what = 0x00000000) = {
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t aac-drc-album-mode = 0
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t aac-drc-boost-level = 127
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t aac-drc-cut-level = 127
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t aac-drc-effect-type = 3
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t aac-drc-output-loudness = -1
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t aac-encoded-target-level = -1
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t aac-max-output-channel_count = 8
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t aac-target-ref-level = 64
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t channel-count = 1
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t channel-mask = 0
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t max-output-channel-count = 8
+08-02 01:19:19.155  1133 16661 D CCodec  :   string mime = "audio/raw"
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t sample-rate = 22050
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t encoder-delay = 3553
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t encoder-padding = 0
+08-02 01:19:19.155  1133 16661 D CCodec  :   int32_t android._config-pcm-encoding = 2
+08-02 01:19:19.155  1133 16661 D CCodec  : }
+08-02 01:19:19.155  1133 16661 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+08-02 01:19:19.155  1133 16659 I CCodecConfig: query failed after returning 16 values (BAD_INDEX)
+08-02 01:19:19.155  1133 16659 D CCodecConfig: c2 config diff is Dict {
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   c2::u32 algo.low-latency.value = 0
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   c2::i32 algo.priority.value = 0
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   c2::float algo.rate.value = 0
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   c2::u32 coded.pl.level = 24584
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   c2::u32 coded.pl.profile = 24576
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   c2::u32 coded.vui.color.matrix = 0
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   c2::u32 coded.vui.color.primaries = 0
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   c2::u32 coded.vui.color.range = 0
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   c2::u32 coded.vui.color.transfer = 0
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   c2::u32 default.color.matrix = 0
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   c2::u32 default.color.primaries = 0
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   c2::u32 default.color.range = 0
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   c2::u32 default.color.transfer = 0
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 7340032
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   string input.media-type.value = "video/hevc"
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   c2::u32 output.delay.value = 3
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   Buffer output.hdr-dynamic-info.data = {
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   }
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   c2::u32 output.hdr-dynamic-info.type = 1
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   string output.media-type.value = "video/raw"
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   c2::u32 raw.color.matrix = 0
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   c2::u32 raw.color.primaries = 0
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   c2::u32 raw.color.range = 0
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   c2::u32 raw.color.transfer = 0
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   c2::float raw.hdr-static-info.mastering.blue.x = 0
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   c2::float raw.hdr-static-info.mastering.blue.y = 0
+08-02 01:19:19.155  1133 16659 D CCodecConfig:   c2::float raw.hdr-static-info.
+08-02 01:19:19.155  1133 16659 W ColorUtils: expected specified color aspects (0:0:0:0)
+08-02 01:19:19.157  1133 16661 I MediaCodec: MediaCodec will operate in async mode
+08-02 01:19:19.157  1133 16660 D MediaCodec: keep callback message for reclaim
+08-02 01:19:19.158  1133 16661 W Codec2Client: query -- param skipped: index = 1342179345.
+08-02 01:19:19.158  1133 16661 W Codec2Client: query -- param skipped: index = 2415921170.
+08-02 01:19:19.158  1133 16661 W Codec2Client: query -- param skipped: index = 1610614798.
+08-02 01:19:19.158  1133 16657 D SurfaceUtils: disconnecting from surface 0xb400007b55f53230, reason onConfigure
+08-02 01:19:19.158  1133 16658 D SurfaceUtils: connecting to surface 0xb400007b55f53230, reason connectToSurface
+08-02 01:19:19.161  1133 16661 D CCodecBufferChannel: [c2.android.aac.decoder#492] Created input block pool with allocatorID 16 => poolID 35 - OK (0)
+08-02 01:19:19.162  1133 16658 I MediaCodec: [c2.exynos.hevc.decoder] setting surface generation to 1160196
+08-02 01:19:19.162  1133 16658 D SurfaceUtils: disconnecting from surface 0xb400007b55f53230, reason connectToSurface(reconnect)
+08-02 01:19:19.162  1133 16658 D SurfaceUtils: connecting to surface 0xb400007b55f53220, reason connectToSurface(reconnect-with-listener)
+08-02 01:19:19.163  1133 16659 D CCodec  : [c2.exynos.hevc.decoder] buffers are bound to CCodec for this session
+08-02 01:19:19.163  1133 16659 D CCodecConfig: no c2 equivalents for durationUs
+08-02 01:19:19.163  1133 16659 D CCodecConfig: no c2 equivalents for frame-count
+08-02 01:19:19.163  1133 16659 D CCodecConfig: no c2 equivalents for track-id
+08-02 01:19:19.163  1133 16659 D CCodecConfig: no c2 equivalents for language
+08-02 01:19:19.163  1133 16659 D CCodecConfig: no c2 equivalents for display-width
+08-02 01:19:19.163  1133 16659 D CCodecConfig: no c2 equivalents for display-height
+08-02 01:19:19.163  1133 16661 I CCodecBufferChannel: [c2.android.aac.decoder#492] Created output block pool with allocatorID 16 => poolID 75 - OK
+08-02 01:19:19.163  1133 16659 D CCodecConfig: no c2 equivalents for color-standard
+08-02 01:19:19.163  1133 16659 D CCodecConfig: no c2 equivalents for android._is-hdr
+08-02 01:19:19.163  1133 16659 D CCodecConfig: no c2 equivalents for native-window
+08-02 01:19:19.163  1133 16659 D CCodecConfig: no c2 equivalents for native-window-generation
+08-02 01:19:19.163  1133 16659 D CCodecConfig: no c2 equivalents for flags
+08-02 01:19:19.164  1133 16661 D CCodecBufferChannel: [c2.android.aac.decoder#492] Configured output block pool ids 75 => OK
+08-02 01:19:19.165  1133 16659 D CCodecConfig: c2 config diff is   c2::float algo.rate.value = 30
+08-02 01:19:19.165  1133 16659 D CCodecConfig:   c2::u32 coded.pl.level = 24581
+08-02 01:19:19.165  1133 16659 D CCodecConfig:   c2::u32 default.color.matrix = 1
+08-02 01:19:19.165  1133 16659 D CCodecConfig:   c2::u32 default.color.primaries = 1
+08-02 01:19:19.165  1133 16659 D CCodecConfig:   c2::u32 default.color.range = 2
+08-02 01:19:19.165  1133 16659 D CCodecConfig:   c2::u32 default.color.transfer = 3
+08-02 01:19:19.165  1133 16659 D CCodecConfig:   c2::u32 raw.size.height = 1280
+08-02 01:19:19.165  1133 16659 D CCodecConfig:   c2::u32 raw.size.width = 720
+08-02 01:19:19.165  1158 16662 D SimpleC2Component: Using output block pool with poolID 75 => got 75 - 0
+08-02 01:19:19.166  1133 16659 W Codec2Client: query -- param skipped: index = 1107298332.
+08-02 01:19:19.166  1133 16659 D CCodec  : client requested max input size 35843, which is smaller than what component recommended (7340032); overriding with component recommendation.
+08-02 01:19:19.166  1133 16659 W CCodec  : This behavior is subject to change. It is recommended that app developers double check whether the requested max input size is in reasonable range.
+08-02 01:19:19.166  1133 16659 D CCodec  : encoding statistics level = 0
+08-02 01:19:19.166  1133 16659 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+08-02 01:19:19.166  1133 16659 D CCodec  :   int32_t height = 1280
+08-02 01:19:19.166  1133 16659 D CCodec  :   int32_t level = 1024
+08-02 01:19:19.166  1133 16659 D CCodec  :   int32_t max-input-size = 7340032
+08-02 01:19:19.166  1133 16659 D CCodec  :   string mime = "video/hevc"
+08-02 01:19:19.166  1133 16659 D CCodec  :   int32_t priority = 0
+08-02 01:19:19.166  1133 16659 D CCodec  :   int32_t profile = 1
+08-02 01:19:19.166  1133 16659 D CCodec  :   int32_t width = 720
+08-02 01:19:19.166  1133 16659 D CCodec  :   Rect crop(0, 0, 719, 1279)
+08-02 01:19:19.166  1133 16659 D CCodec  : }
+08-02 01:19:19.166  1133 16659 D CCodec  : setup formats output: AMessage(what = 0x00000000) = {
+08-02 01:19:19.166  1133 16659 D CCodec  :   int32_t android._color-format = 2130708361
+08-02 01:19:19.166  1133 16659 D CCodec  :   int32_t android._video-scaling = 1
+08-02 01:19:19.166  1133 16659 D CCodec  :   int32_t android._dataspace = 260
+08-02 01:19:19.166  1133 16659 D CCodec  :   int32_t color-standard = 1
+08-02 01:19:19.166  1133 16659 D CCodec  :   int32_t color-range = 2
+08-02 01:19:19.166  1133 16659 D CCodec  :   int32_t color-transfer = 3
+08-02 01:19:19.166  1133 16659 D CCodec  :   int32_t sar-height = 1
+08-02 01:19:19.166  1133 16659 D CCodec  :   int32_t rotation-degrees = 0
+08-02 01:19:19.166  1133 16659 D CCodec  :   Buffer hdr-static-info = {
+08-02 01:19:19.166  1133 16659 D CCodec  :     00000000:  00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+08-02 01:19:19.166  1133 16659 D CCodec  :     00000010:  00 00 00 00 00 00 00 00  00                       .........
+08-02 01:19:19.166  1133 16659 D CCodec  :   }
+08-02 01:19:19.166  1133 16659 D CCodec  :   int32_t sar-width = 1
+08-02 01:19:19.166  1133 16659 D CCodec  :   Rect crop(0, 0, 719, 1279)
+08-02 01:19:19.166  1133 16659 D CCodec  :   int32_t width = 720
+08-02 01:19:19.166  1133 16659 D CCodec  :   int32_t height = 1280
+08-02 01:19:19.166  1133 16659 D CCodec  :   int32_t max-height = 240
+08-02 01:19:19.166  1133 16659 D CCodec  :   int32_t max-width = 320
+08-02 01:19:19.166  1133 16659 D CCodec  :   string mime = "video/raw"
+08-02 01:19:19.166  1133 16659 D CCodec  :   int32_t priority = 0
+08-02 01:19:19.166  1133 16659 D CCodec  :   Buffer hdr10-plus-info = {
+08-02 01:19:19.166  1133 16659 D CCodec  :   }
+08-02 01:19:19.166  1133 16659 D CCodec  :   int32_t color-format = 2130708361
+08-02 01:19:19.166  1133 16659 D CCodec  : }
+08-02 01:19:19.166  1133 16659 I CCodecConfig: query failed after returning 16 values (BAD_INDEX)
+08-02 01:19:19.166  1133 16659 D CCodecConfig: c2 config diff is   c2::u32 raw.color.matrix = 1
+08-02 01:19:19.166  1133 16659 D CCodecConfig:   c2::u32 raw.color.primaries = 1
+08-02 01:19:19.166  1133 16659 D CCodecConfig:   c2::u32 raw.color.range = 2
+08-02 01:19:19.166  1133 16659 D CCodecConfig:   c2::u32 raw.color.transfer = 3
+08-02 01:19:19.166  1133 16659 D CCodecConfig:   c2::u32 raw.max-size.height = 1280
+08-02 01:19:19.166  1133 16659 D CCodecConfig:   c2::u32 raw.max-size.width = 720
+08-02 01:19:19.167  1133 16658 I MediaCodec: MediaCodec will operate in async mode
+08-02 01:19:19.167  1133 16657 D MediaCodec: keep callback message for reclaim
+08-02 01:19:19.167   998 16663 I ExynosC2HevcDecComponent: [onStart] resource is obtained (2)
+08-02 01:19:19.168   998 16664 D libexynosv4l2: try node: /dev/video6
+08-02 01:19:19.168   998 16664 I libexynosv4l2: node found for device s5p-mfc-dec: /dev/video6
+08-02 01:19:19.175   998 16664 I libexynosv4l2: open video device /dev/video6
+08-02 01:19:19.177  1133 16659 W Codec2Client: query -- param skipped: index = 1073743886.
+08-02 01:19:19.177  1133 16659 W Codec2Client: query -- param skipped: index = 1610614798.
+08-02 01:19:19.177  1133 16659 D CCodecBufferChannel: [c2.exynos.hevc.decoder#515] Created input block pool with allocatorID 16 => poolID 36 - OK (0)
+08-02 01:19:19.178  1133 16659 I CCodecBufferChannel: [c2.exynos.hevc.decoder#515] Created output block pool with allocatorID 18 => poolID 20 - OK
+08-02 01:19:19.178  1133 16659 D CCodecBufferChannel: [c2.exynos.hevc.decoder#515] Configured output block pool ids 20 => OK
+08-02 01:19:19.178  1133 16659 D Codec2-OutputBufferQueue: C2SurfaceSyncMemory created 20(20)
+08-02 01:19:19.178  1133 16659 D Codec2-OutputBufferQueue: remote graphic buffer migration 0/0
+08-02 01:19:19.179  1133 16659 D Codec2Client: setOutputSurface -- failed to set consumer usage (6/BAD_INDEX)
+08-02 01:19:19.179  1133 16659 D Codec2Client: setOutputSurface -- generation=1160196 consumer usage=0x900 sync
+08-02 01:19:19.179  1158 16662 I C2SoftAacDec: Reconfiguring decoder: 0->44100 Hz, 0->2 channels
+08-02 01:19:19.179   998  2230 D C2BqBuffer: local generation change 1160196 , bqId: 86436216832009 migrated buffers # 0
+08-02 01:19:19.179  1133 16659 D Codec2Client: Surface configure completed
+08-02 01:19:19.180  1133 16658 W ResourceManagerServiceUtils: Ignoring request to add new resource entry with value <= 0
+08-02 01:19:19.181  1133   880 D BufferPoolAccessor2.0: bufferpool2 0xb4000079c5f640e8 : 0(0 size) total buffers - 0(0 size) used buffers - 65/71 (recycle/alloc) - 6/71 (fetch/transfer)
+08-02 01:19:19.181  1133   880 D BufferPoolAccessor2.0: Destruction - bufferpool2 0xb4000079c5f640e8 cached: 0/0M, 0/0% in use; allocs: 71, 92% recycled; transfers: 71, 92% unfetched
+08-02 01:19:19.185  1133 16661 D CCodecConfig: c2 config diff is   c2::u32 raw.channel-count.value = 2
+08-02 01:19:19.185  1133 16661 D CCodecConfig:   c2::u32 raw.channel-mask.value = 12
+08-02 01:19:19.185  1133 16661 D CCodecConfig:   c2::u32 raw.sample-rate.value = 44100
+08-02 01:19:19.185  1133 16661 D CCodecBuffers: [c2.android.aac.decoder#492:Output[N]] popFromStashAndRegister: at -161133us, output format changed to AMessage(what = 0x00000000) = {
+08-02 01:19:19.185  1133 16661 D CCodecBuffers:   int32_t aac-drc-album-mode = 0
+08-02 01:19:19.185  1133 16661 D CCodecBuffers:   int32_t aac-drc-boost-level = 127
+08-02 01:19:19.185  1133 16661 D CCodecBuffers:   int32_t aac-drc-cut-level = 127
+08-02 01:19:19.185  1133 16661 D CCodecBuffers:   int32_t aac-drc-effect-type = 3
+08-02 01:19:19.185  1133 16661 D CCodecBuffers:   int32_t aac-drc-output-loudness = -1
+08-02 01:19:19.185  1133 16661 D CCodecBuffers:   int32_t aac-encoded-target-level = -1
+08-02 01:19:19.185  1133 16661 D CCodecBuffers:   int32_t aac-max-output-channel_count = 8
+08-02 01:19:19.185  1133 16661 D CCodecBuffers:   int32_t aac-target-ref-level = 64
+08-02 01:19:19.185  1133 16661 D CCodecBuffers:   int32_t channel-count = 2
+08-02 01:19:19.185  1133 16661 D CCodecBuffers:   int32_t channel-mask = 12
+08-02 01:19:19.185  1133 16661 D CCodecBuffers:   int32_t max-output-channel-count = 8
+08-02 01:19:19.185  1133 16661 D CCodecBuffers:   string mime = "audio/raw"
+08-02 01:19:19.185  1133 16661 D CCodecBuffers:   int32_t sample-rate = 44100
+08-02 01:19:19.185  1133 16661 D CCodecBuffers:   int32_t encoder-delay = 3553
+08-02 01:19:19.185  1133 16661 D CCodecBuffers:   int32_t encoder-padding = 0
+08-02 01:19:19.185  1133 16661 D CCodecBuffers:   int32_t android._config-pcm-encoding = 2
+08-02 01:19:19.185  1133 16661 D CCodecBuffers: }
+08-02 01:19:19.186   998 16664 D ExynosVideoDecoder: MFC_Decoder_Enqueue_Inbuf: DATA with flags(0x20000000)
+08-02 01:19:19.200 20125 20125 W ssdk_handler: type=1400 audit(0.0:61769): avc:  denied  { search } for  name="input" dev="tmpfs" ino=971 scontext=u:r:untrusted_app_32:s0:c245,c256,c512,c768 tcontext=u:object_r:input_device:s0 tclass=dir permissive=0 app=com.customsolutions.android.phonelink
+08-02 01:19:19.187   998 16664 I ExynosVideoCodecDec-HevcDec: [updateResolution] resolution info : 720 x 1280 (0, 0, 720, 1280)
+08-02 01:19:19.189  1022  1084 D AudioFlinger: Client defaulted notificationFrames to 11025 for frameCount 22050
+08-02 01:19:19.191   998 16678 D ExynosVideoDecoder: MFC_Decoder_Enqueue_Inbuf: DATA with flags(0x20000000)
+08-02 01:19:19.191   998 16663 I ExynosC2HevcDecComponent: [updateC2Config_OutputDelay] output delay(8)
+08-02 01:19:19.192   998 16663 I ExynosC2HevcDecComponent: [updateC2Config_OutputDelay] reorder key(0)
+08-02 01:19:19.192   998 16663 I ExynosC2DecComponent: [processCSDInfo] update configurations on c2work(0xb4000074c808cb80)
+08-02 01:19:19.192  1133 16659 D CCodecConfig: c2 config diff is   c2::u32 output.delay.value = 8
+08-02 01:19:19.193  1133 16659 D Codec2-OutputBufferQueue: set max dequeue count 15 from update
+08-02 01:19:19.194  1133 15714 D CCodecBufferChannel: [c2.exynos.hevc.decoder#515] Ignoring stale input buffer done callback: last flush index = 0, frameIndex = 0
+08-02 01:19:19.194   998 16663 I ExynosC2HevcDecComponent: [updateC2Config_OutputDelay] output delay(8)
+08-02 01:19:19.194   998 16663 I ExynosC2HevcDecComponent: [updateC2Config_OutputDelay] reorder key(0)
+08-02 01:19:19.195  1133 16659 D Codec2-OutputBufferQueue: set max dequeue count 15 from update
+08-02 01:19:19.198 20125 16612 W Settings: Setting adb_enabled has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+08-02 01:19:19.200  1604  2282 E AppOps  : Operation not found: uid=1041 pkg=audioserver(null) op=WAKE_LOCK
+08-02 01:19:19.200  1022  1084 W AudioFlinger: moveEffectChain_ll: effect chain for session 0 not on source thread 0xb40000751e4d1fe8
+08-02 01:19:19.202   998 16663 I ExynosC2HevcDecComponent: [onUpdateC2Config] HDR :: static info[final] r(0.708000, 0.292000), g(0.170000, 0.797000), b(0.131000, 0.046000), w(0.312700, 0.329000), max(1000.000000), min(0.000000), cll(0.000000), fall(65536.000000)
+08-02 01:19:19.204  1133 16659 D CCodecConfig: c2 config diff is   c2::u32 raw.crop.height = 1280
+08-02 01:19:19.204  1133 16659 D CCodecConfig:   c2::u32 raw.crop.left = 0
+08-02 01:19:19.204  1133 16659 D CCodecConfig:   c2::u32 raw.crop.top = 0
+08-02 01:19:19.204  1133 16659 D CCodecConfig:   c2::u32 raw.crop.width = 720
+08-02 01:19:19.204  1133 16659 D CCodecConfig:   c2::float raw.hdr-static-info.mastering.blue.x = 0.131
+08-02 01:19:19.204  1133 16659 D CCodecConfig:   c2::float raw.hdr-static-info.mastering.blue.y = 0.046
+08-02 01:19:19.204  1133 16659 D CCodecConfig:   c2::float raw.hdr-static-info.mastering.green.x = 0.17
+08-02 01:19:19.204  1133 16659 D CCodecConfig:   c2::float raw.hdr-static-info.mastering.green.y = 0.797
+08-02 01:19:19.204  1133 16659 D CCodecConfig:   c2::float raw.hdr-static-info.mastering.max-luminance = 1000
+08-02 01:19:19.204  1133 16659 D CCodecConfig:   c2::float raw.hdr-static-info.mastering.red.x = 0.708
+08-02 01:19:19.204  1133 16659 D CCodecConfig:   c2::float raw.hdr-static-info.mastering.red.y = 0.292
+08-02 01:19:19.204  1133 16659 D CCodecConfig:   c2::float raw.hdr-static-info.mastering.white.x = 0.3127
+08-02 01:19:19.204  1133 16659 D CCodecConfig:   c2::float raw.hdr-static-info.mastering.white.y = 0.329
+08-02 01:19:19.204  1133 16659 D CCodecConfig:   c2::float raw.hdr-static-info.max-fall = 65536
+08-02 01:19:19.205  1133 16659 D CCodecConfig: found invalid HDR static metadata AMessage(what = 0x00000000) = {
+08-02 01:19:19.205  1133 16659 D CCodecConfig:           int32_t android._color-format = 2130708361
+08-02 01:19:19.205  1133 16659 D CCodecConfig:           int32_t android._video-scaling = 1
+08-02 01:19:19.205  1133 16659 D CCodecConfig:           float smpte2086.green.y = 0.797000
+08-02 01:19:19.205  1133 16659 D CCodecConfig:           int32_t color-standard = 1
+08-02 01:19:19.205  1133 16659 D CCodecConfig:           int32_t color-range = 2
+08-02 01:19:19.205  1133 16659 D CCodecConfig:           int32_t color-transfer = 3
+08-02 01:19:19.205  1133 16659 D CCodecConfig:           float smpte2086.red.y = 0.292000
+08-02 01:19:19.205  1133 16659 D CCodecConfig:           int32_t width = 720
+08-02 01:19:19.205  1133 16659 D CCodecConfig:           float smpte2086.white.y = 0.329000
+08-02 01:19:19.205  1133 16659 D CCodecConfig:           float smpte2086.white.x = 0.312700
+08-02 01:19:19.205  1133 16659 D CCodecConfig:           float cta861.max-cll = 0.000000
+08-02 01:19:19.205  1133 16659 D CCodecConfig:           float cta861.max-fall = 65536.000000
+08-02 01:19:19.205  1133 16659 D CCodecConfig:           float smpte2086.max-luminance = 1000.000000
+08-02 01:19:19.205  1133 16659 D CCodecConfig:           float smpte2086.min-luminance = 0.000000
+08-02 01:19:19.205  1133 16659 D CCodecConfig:           Rect crop(0, 0, 719, 1279)
+08-02 01:19:19.205  1133 16659 D CCodecConfig:           float smpte2086.red.x = 0.708000
+08-02 01:19:19.205  1133 16659 D CCodecConfig:           int32_t height = 1280
+08-02 01:19:19.205  1133 16659 D CCodecConfig:           int32_t max-height = 1280
+08-02 01:19:19.205  1133 16659 D CCodecConfig:           int32_t max-width = 720
+08-02 01:19:19.205  1133 16659 D CCodecConfig:           string mime = "video/raw"
+08-02 01:19:19.205  1133 16659 D CCodecConfig:           Buffer output.hdr-dynamic-info.data = {
+08-02 01:19:19.205  1133 16659 D CCodecConfig:           }
+08-02 01:19:19.205  1133 16659 D CCodecConfig:           int32_t output.hdr-dynamic-info.type = 1
+08-02 01:19:19.205  1133 16659 D CCodecConfig:           int32_t
+08-02 01:19:19.243   945 16015 D audio_hw_patch: deep-buffer-playback routing:
+08-02 01:19:19.243   945 16015 D audio_hw_patch: dev: 0x400000
+08-02 01:19:19.246  1022  1084 D audioserver: logFgsApiBegin: FGS Logger Transaction failed, -129
+08-02 01:19:19.247 20125 15938 W MediaPlayerNative: info/warning (3, 0)
+08-02 01:19:19.248  1604  2282 E AppOps  : Operation not found: uid=1041 pkg=audioserver(null) op=WAKE_LOCK
+08-02 01:19:19.250   945 32191 D audio_hw: prepare deep-buffer-playback
+08-02 01:19:19.250   945 32191 D audio_hw_soundtrigger: st_uc_monitor:uc:deep-buffer-playback active
+08-02 01:19:19.250   945 32191 D audio_hw: deep-buffer-playback:
+08-02 01:19:19.250   945 32191 D audio_hw: rx:
+08-02 01:19:19.250   945 32191 D audio_hw:   #0: OUT_SPEAKER_SAFE_BE_CFG 0
+08-02 01:19:19.250   945 32191 I audio_hw_aoc: Mode Ambient is already selected
+08-02 01:19:19.250   945 32191 D audio_route: Apply path: deep-buffer-playbackP
+08-02 01:19:19.250  1172  1172 D AOC     : F1:MSG: controller.cc, 275: AudioOutCtrl: cmd ID: 0x010f, tag: 0xd7 [cntr = 164]
+08-02 01:19:19.250  1172  1172 D AOC     : F1:Source 5 mastered by sink 0
+08-02 01:19:19.251  1172  1172 D AOC     : F1:AT Map:22 (LL:0), 2 EPs active, Power: No, Config: No
+08-02 01:19:19.251  1172  1172 D AOC     : F1:Mixer 0 configuration changed: (22)
+08-02 01:19:19.251   945 32191 D audio_hw_aoc_route: deep-buffer-playbackP 1
+08-02 01:19:19.251  1172  1172 D AOC     : F1:Sink 0 Configuration changed: ULL (enabled)
+08-02 01:19:19.251  1172  1172 D AOC     : F1:F1 Bitmap updated.
+08-02 01:19:19.251  1172  1172 D AOC     : F1:MSG: controller.cc, 899: AudioOutCtrl: ipc: audio_output_co, cmd ID: 0x010f, tag: 0xd7, rc: 0
+08-02 01:19:19.251   945 32191 D audio_hw_waves: waves_usecase_event: deep-buffer-playback start
+08-02 01:19:19.251  1172  1172 D AOC     : F1:MSG: controller.cc, 275: AudioOutCtrl: cmd ID: 0x00ce, tag: 0xd8 [cntr = 165]
+08-02 01:19:19.251  1172  1172 D AOC     : F1:MSG: controller_audio_output.cc, 1788: audio_playback5 set default threshold 23040
+08-02 01:19:19.251  1172  1172 D AOC     : F1:MSG: controller.cc, 899: AudioOutCtrl: ipc: audio_output_co, cmd ID: 0x012b, tag: 0x10, rc: 0
+08-02 01:19:19.251  1172  1172 D AOC     : F1:MSG: controller.cc, 275: AudioOutCtrl: cmd ID: 0x00c9, tag: 0xd9 [cntr = 166]
+08-02 01:19:19.251  1172  1172 D AOC     : F1:MSG: controller.cc, 899: AudioOutCtrl: ipc: audio_output_co, cmd ID: 0x00c9, tag: 0xd9, rc: 0
+08-02 01:19:19.252  1172  1172 D AOC     : H0:Mixer AMixSPKR: 480 samples (0022/0022) (ON)
+08-02 01:19:19.252  1172  1172 D AOC     : H0:   1: 0x4e41a8
+08-02 01:19:19.252  1172  1172 D AOC     : H0:   5: 0x4e45e8
+08-02 01:19:19.256  1131  1858 D AudioAnalytics: gc(1700, 2000): log size:1700 item map size:186, item map items:1700
+08-02 01:19:19.256  1133 16655 D AudioTrack: getTimestamp_l(527): device stall time corrected using current time 28057169550969
+08-02 01:19:19.272   945 32191 W audio_hw_output_stream: chk_out_pcm_underrun: underrun(2) frames_by_time(133) > out->last_fifo_frames_remaining(0)
+08-02 01:19:19.282  1022  1658 I AF::Track: processMuteEvent_l(228): processed mute state for port ID 527 from 0 to 16
+08-02 01:19:19.349  1022  1658 D AudioFlinger: mixer(0xb40000751e3c48e0) throttle end: throttle time(46)
+08-02 01:19:19.364  1604  3945 E AppOps  : Operation not found: uid=1041 pkg=audioserver(null) op=WAKE_LOCK
+08-02 01:19:19.369  1604  3945 E AppOps  : Operation not found: uid=1041 pkg=audioserver(null) op=WAKE_LOCK
+08-02 01:19:19.370  1604  3945 E AppOps  : Operation not found: uid=1041 pkg=audioserver(null) op=WAKE_LOCK
+08-02 01:19:19.370  1604  2534 E AppOps  : Operation not found: uid=1041 pkg=audioserver(null) op=WAKE_LOCK
+08-02 01:19:19.371  1604  2534 E AppOps  : Operation not found: uid=1041 pkg=audioserver(null) op=WAKE_LOCK
+08-02 01:19:19.414 20125 16596 D TrafficStats: tagSocket(523) with statsTag=0xffffffff, statsUid=-1
+08-02 01:19:19.719 20125 20125 I PlayCore: UID: [10245]  PID: [20125] PrewarmService : prewarm(com.customsolutions.android.phonelink)
+08-02 01:19:19.719 20125 31817 I PlayCore: UID: [10245]  PID: [20125] PrewarmService : Initiate binding to the service.
+08-02 01:19:19.728 20125 20125 I PlayCore: UID: [10245]  PID: [20125] PrewarmService : ServiceConnectionImpl.onServiceConnected(ComponentInfo{com.android.vending/com.google.android.finsky.prewarmservice.PrewarmService})
+08-02 01:19:19.728 20125 31817 I PlayCore: UID: [10245]  PID: [20125] PrewarmService : linkToDeath
+08-02 01:19:19.729 16795 16853 I Finsky  : [120] abds.c(7): prewarm called with callingPackage: com.customsolutions.android.phonelink
+08-02 01:19:19.734 20125 13857 D TrafficStats: tagSocket(635) with statsTag=0xffffffff, statsUid=-1
+08-02 01:19:19.837  1133 16588 D CCodecBufferChannel: [c2.android.mp3.decoder#855] buffers after EOS ignored (0 us)
+08-02 01:19:19.837  1133 16588 D CCodecBufferChannel: [c2.android.mp3.decoder#855] buffers after EOS ignored (0 us)
+08-02 01:19:19.837  1133 16588 D CCodecBufferChannel: [c2.android.mp3.decoder#855] buffers after EOS ignored (0 us)
+08-02 01:19:19.839  1133 16585 D AudioTrack: stop(526): called with 39744 frames delivered
+08-02 01:19:19.859   534   534 E TimeStats: [1282]-[com.customsolutions.android.phonelink/com.customsolutions.android.phonelink.RingerActivity#1282]-timeRecords is at its maximum size[64]. Ignore this when unittesting.
+08-02 01:19:20.019  1172  1172 D AOC     : F1:[Idle Tracker] long no idle:[0] average between idle:[3.313345ms] max no idle:[52.715742ms]
+08-02 01:19:20.289 16028 16028 I com.amazon.identity.auth.device.authorization.InternalAuthManager: com.customsolutions.android.alexa calling getToken: scopes=[alexa:all]
+08-02 01:19:20.289 16028 16218 I com.amazon.identity.auth.device.appid.AbstractAppIdentifier: isAPIKeyValid : packageName=com.customsolutions.android.alexa
+08-02 01:19:20.289 16028 16218 I com.amazon.identity.auth.device.appid.AbstractAppIdentifier: getAppInfo : packageName=com.customsolutions.android.alexa
+08-02 01:19:20.289 16028 16218 I com.amazon.identity.auth.device.appid.AbstractAppIdentifier: getAppInfoFromAPIKey : packageName=com.customsolutions.android.alexa
+08-02 01:19:20.289 16028 16218 I com.amazon.identity.auth.device.appid.AbstractAppIdentifier: Finding API Key for com.customsolutions.android.alexa
+08-02 01:19:20.289 16028 16028 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+08-02 01:19:20.289 16028 16028 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+08-02 01:19:20.290 16028 16218 I com.amazon.identity.auth.device.utils.ThirdPartyResourceParser: Attempting to parse API Key from assets directory
+08-02 01:19:20.290 16028 16218 I com.amazon.identity.auth.device.appid.APIKeyDecoder: Begin decoding API Key for packageName=com.customsolutions.android.alexa
+08-02 01:19:20.291  1133  6588 D NuPlayerDriver: reset(0xb400007a05f6a6d0) at state 6
+08-02 01:19:20.291 16028 16218 I com.amazon.identity.auth.device.utils.JWTDecoder: Signature match!
+08-02 01:19:20.291 16028 16218 D com.amazon.identity.auth.device.appid.APIKeyDecoder.PII: APIKey:<obscured>
+08-02 01:19:20.291 16028 16218 I com.amazon.identity.auth.device.appid.APIKeyDecoder: verifyPayload for packageName=com.customsolutions.android.alexa
+08-02 01:19:20.291 16028 16218 D com.amazon.identity.auth.device.appid.APIKeyDecoder.PII: Validating MD5 signature in API key:<obscured>
+08-02 01:19:20.291 16028 16218 I com.amazon.identity.auth.device.utils.PackageSignatureUtil: num sigs = 1
+08-02 01:19:20.292 16028 16218 D com.amazon.identity.auth.device.utils.PackageSignatureUtil.PII: Fingerprint checking:<obscured>
+08-02 01:19:20.292 16028 16218 I com.amazon.identity.auth.device.appid.APIKeyDecoder: Number of signatures = 1
+08-02 01:19:20.292 16028 16218 D com.amazon.identity.auth.device.appid.APIKeyDecoder.PII: Fingerprint checking:<obscured>
+08-02 01:19:20.292 16028 16218 D com.amazon.identity.auth.device.appid.APIKeyDecoder.PII: Validating SHA256 signature in API key:<obscured>
+08-02 01:19:20.292 16028 16218 I com.amazon.identity.auth.device.utils.PackageSignatureUtil: num sigs = 1
+08-02 01:19:20.292 16028 16218 D com.amazon.identity.auth.device.utils.PackageSignatureUtil.PII: Fingerprint checking:<obscured>
+08-02 01:19:20.292 16028 16218 I com.amazon.identity.auth.device.appid.APIKeyDecoder: Number of signatures = 1
+08-02 01:19:20.292 16028 16218 D com.amazon.identity.auth.device.appid.APIKeyDecoder.PII: Fingerprint checking:<obscured>
+08-02 01:19:20.292 16028 16218 I com.amazon.identity.auth.device.authorization.TokenHelper: GetToken pkg=com.customsolutions.android.alexa scopes=[alexa:all]
+08-02 01:19:20.292 16028 16218 I com.amazon.identity.auth.device.appid.AbstractAppIdentifier: getAppInfo : packageName=com.customsolutions.android.alexa
+08-02 01:19:20.292 16028 16218 I com.amazon.identity.auth.device.appid.AbstractAppIdentifier: getAppInfoFromAPIKey : packageName=com.customsolutions.android.alexa
+08-02 01:19:20.293 16028 16218 I com.amazon.identity.auth.device.appid.AbstractAppIdentifier: Finding API Key for com.customsolutions.android.alexa
+08-02 01:19:20.293 16028 16218 I com.amazon.identity.auth.device.utils.ThirdPartyResourceParser: Attempting to parse API Key from assets directory
+08-02 01:19:20.293 16028 16218 I com.amazon.identity.auth.device.appid.APIKeyDecoder: Begin decoding API Key for packageName=com.customsolutions.android.alexa
+08-02 01:19:20.293 16028 16218 I com.amazon.identity.auth.device.utils.JWTDecoder: Signature match!
+08-02 01:19:20.293 16028 16218 D com.amazon.identity.auth.device.appid.APIKeyDecoder.PII: APIKey:<obscured>
+08-02 01:19:20.293 16028 16218 I com.amazon.identity.auth.device.appid.APIKeyDecoder: verifyPayload for packageName=com.customsolutions.android.alexa
+08-02 01:19:20.293 16028 16218 D com.amazon.identity.auth.device.appid.APIKeyDecoder.PII: Validating MD5 signature in API key:<obscured>
+08-02 01:19:20.293 16028 16218 I com.amazon.identity.auth.device.utils.PackageSignatureUtil: num sigs = 1
+08-02 01:19:20.293 16028 16218 D com.amazon.identity.auth.device.utils.PackageSignatureUtil.PII: Fingerprint checking:<obscured>
+08-02 01:19:20.294 16028 16218 I com.amazon.identity.auth.device.appid.APIKeyDecoder: Number of signatures = 1
+08-02 01:19:20.294 16028 16218 D com.amazon.identity.auth.device.appid.APIKeyDecoder.PII: Fingerprint checking:<obscured>
+08-02 01:19:20.294 16028 16218 D com.amazon.identity.auth.device.appid.APIKeyDecoder.PII: Validating SHA256 signature in API key:<obscured>
+08-02 01:19:20.294 16028 16218 I com.amazon.identity.auth.device.utils.PackageSignatureUtil: num sigs = 1
+08-02 01:19:20.294 16028 16218 D com.amazon.identity.auth.device.utils.PackageSignatureUtil.PII: Fingerprint checking:<obscured>
+08-02 01:19:20.294 16028 16218 I com.amazon.identity.auth.device.appid.APIKeyDecoder: Number of signatures = 1
+08-02 01:19:20.294 16028 16218 D com.amazon.identity.auth.device.appid.APIKeyDecoder.PII: Fingerprint checking:<obscured>
+08-02 01:19:20.294 16028 16218 D com.amazon.identity.auth.device.endpoint.TokenVendor.PII: Vending out token: appId=amzn1.application.d0c6535538ac4ff08e46c1abb733ce2b, scopes=[alexa:all]:<obscured>
+08-02 01:19:20.294 16028 16218 I com.amazon.identity.auth.device.endpoint.TokenVendor: Try finding a common access token for requested scopes
+08-02 01:19:20.295  1133 16588 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+08-02 01:19:20.295  1158  2272 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+08-02 01:19:20.297 16028 16218 D com.amazon.identity.auth.device.endpoint.TokenVendor.PII: Common access token found.:<obscured>
+08-02 01:19:20.297 16028 16218 I com.amazon.identity.auth.device.endpoint.TokenVendor: Try finding a common refresh token for requested scopes
+08-02 01:19:20.297 16028 16218 D com.amazon.identity.auth.device.endpoint.TokenVendor.PII: Common refresh token found.:<obscured>
+08-02 01:19:20.297 16028 16218 I com.amazon.identity.auth.device.endpoint.TokenVendor: Common token still has acceptable life, returning it back to caller
+08-02 01:19:20.297 16028 16218 D com.amazon.identity.auth.device.authorization.TokenHelper.PII: GetToken:<obscured>
+08-02 01:19:20.299  1133 16578 D NuPlayerDriver: notifyResetComplete(0xb400007a05f6a6d0)
+08-02 01:19:20.299  1133  6588 W AMessage: failed to post message as target looper for handler 0 is gone.
+08-02 01:19:20.302  1604  3945 I MediaFocusControl: abandonAudioFocus() from uid/pid 10312/16028 clientId=android.media.AudioManager@2f13d8fcom.customsolutions.android.alexa.AvsService@645e80e
+08-02 01:19:20.302 20125 20125 D WebViewRender: initWebView: create WebView by act
+08-02 01:19:20.304 20125 16602 D TrafficStats: tagSocket(405) with statsTag=0xffffffff, statsUid=-1
+08-02 01:19:20.307  1022  1644 D audioserver: logFgsApiEnd: FGS Logger Transaction failed, -129
+08-02 01:19:20.308   945 16015 D audio_hw_soundtrigger: updated Stream 3 active in soundtrigger
+08-02 01:19:20.308   945 16015 D audio_hw_output_stream: update stream 3 active 1 gain 0.000000
+08-02 01:19:20.311  1604  3945 W ActivityManager: Starting FGS with type microphone code=4 callerApp=ProcessRecord{340af2a 16028:com.customsolutions.android.alexa/u0a312} targetSDK=33 requiredPermissions=all of the permissions allOf=true [android.permission.FOREGROUND_SERVICE_MICROPHONE] any of the permissions allOf=false [android.permission.CAPTURE_AUDIO_HOTWORD, android.permission.CAPTURE_AUDIO_OUTPUT, android.permission.CAPTURE_MEDIA_OUTPUT, android.permission.CAPTURE_TUNER_AUDIO_INPUT, android.permission.CAPTURE_VOICE_COMMUNICATION_OUTPUT, android.permission.RECORD_AUDIO]  and the app must be in the eligible state/exemptions to access the foreground only permission
+08-02 01:19:20.312 16028 16028 W MediaPlayer: mediaplayer went away with unhandled events
+08-02 01:19:20.317 20125 20125 E droid.phonelink: Invalid resource ID 0x1f000008.
+08-02 01:19:20.318 20125 20125 E droid.phonelink: Invalid resource ID 0x1f000008.
+08-02 01:19:20.327  1022  1644 D audioserver: logFgsApiEnd: FGS Logger Transaction failed, -129
+08-02 01:19:20.366  1604  2018 D ConnectivityService: NetReassign [no changes] [c 1] [a 0] [i 5]
+08-02 01:19:20.529  3110  4055 I AiAiEcho: SmartspaceNotificationPredictor no parser can handle this notification or notification is invalid
+08-02 01:19:21.019  1172  1172 D AOC     : F1:[Idle Tracker] long no idle:[0] average between idle:[3.313356ms] max no idle:[52.715742ms]
+08-02 01:19:21.764  3110  4055 I AiAiEcho: SmartspaceNotificationPredictor no parser can handle this notification or notification is invalid
+08-02 01:19:21.953 20125 16596 W Settings: Setting adb_enabled has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+08-02 01:19:21.956 20125 20125 W ssdk_handler: type=1400 audit(0.0:61770): avc:  denied  { search } for  name="input" dev="tmpfs" ino=971 scontext=u:r:untrusted_app_32:s0:c245,c256,c512,c768 tcontext=u:object_r:input_device:s0 tclass=dir permissive=0 app=com.customsolutions.android.phonelink
+08-02 01:19:22.019  1172  1172 D AOC     : F1:[Idle Tracker] long no idle:[0] average between idle:[3.313367ms] max no idle:[52.715742ms]
+08-02 01:19:22.065  1133 32175 D BufferPoolAccessor2.0: bufferpool2 0xb4000079c5f5c8a8 : 4(32768 size) total buffers - 4(32768 size) used buffers - 12/20 (recycle/alloc) - 8/34 (fetch/transfer)
+08-02 01:19:22.065  1133 32175 D BufferPoolAccessor2.0: evictor expired: 1, evicted: 1
+08-02 01:19:22.066  1158  2133 D BufferPoolAccessor2.0: bufferpool2 0xb40000733179a878 : 0(0 size) total buffers - 0(0 size) used buffers - 13/18 (recycle/alloc) - 5/18 (fetch/transfer)
+08-02 01:19:22.066  1158  2133 D BufferPoolAccessor2.0: evictor expired: 1, evicted: 1
+08-02 01:19:22.072  1133 16528 D BufferPoolAccessor2.0: bufferpool2 0xb4000079c5f580f8 : 8(262144 size) total buffers - 5(163840 size) used buffers - 337/353 (recycle/alloc) - 24/702 (fetch/transfer)
+08-02 01:19:22.134 25297 25297 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.inappreach.service.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsApiService }
+08-02 01:19:22.202  2208  2247 I deeptouch: I0000 00:00:1722525562.202631    2247 tf_lite_classifier.cc:413] Event stream classified as kNone
+08-02 01:19:22.205 20125 20125 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+08-02 01:19:22.229  1604  2154 I ActivityTaskManager: START u0 {cmp=com.customsolutions.android.phonelink/com.google.android.gms.ads.AdActivity (has extras)} with LAUNCH_MULTIPLE from uid 10245 (BAL_ALLOW_VISIBLE_WINDOW) result code=0
+08-02 01:19:22.229  2095  2118 V WindowManagerShell: Transition requested (#98): android.os.BinderProxy@570a1f1 TransitionRequestInfo { type = OPEN, triggerTask = TaskInfo{userId=0 taskId=64 displayId=0 isRunning=true baseIntent=Intent { flg=0x34000000 cmp=com.customsolutions.android.phonelink/.RingerActivity } baseActivity=ComponentInfo{com.customsolutions.android.phonelink/com.customsolutions.android.phonelink.RingerActivity} topActivity=ComponentInfo{com.customsolutions.android.phonelink/com.google.android.gms.ads.AdActivity} origActivity=null realActivity=ComponentInfo{com.customsolutions.android.phonelink/com.customsolutions.android.phonelink.RingerActivity} numActivities=2 lastActiveTime=476919941 supportsMultiWindow=true resizeMode=1 isResizeable=true minWidth=-1 minHeight=-1 defaultMinSize=220 token=WCT{android.window.IWindowContainerToken$Stub$Proxy@3b291d6} topActivityType=1 pictureInPictureParams=null shouldDockBigOverlays=false launchIntoPipHostTaskId=-1 lastParentTaskIdBeforePip=-1 displayCutoutSafeInsets=Rect(0, 118 - 0, 0) topActivityInfo=ActivityInfo{cfb7c57 com.google.android.gms.ads.AdActivity} launchCookies=[] positionInParent=Point(0, 0) parentTaskId=-1 isFocused=true isVisible=true isVisibleRequested=true isSleeping=false locusId=null displayAreaFeatureId=1 isTopActivityTransparent=true appCompatTaskInfo=AppCompatTaskInfo { topActivityInSizeCompat=false topActivityEligibleForLetterboxEducation= false isLetterboxDoubleTapEnabled= false topActivityEligibleForUserAspectRatioButton= false topActivityBoundsLetterboxed= false isFromLetterboxDoubleTap= false topActivityLetterboxVerticalPosition= -1 topActivityLetterboxHorizontalPosition= -1 topActivityLetterboxWidth=1080 topActivityLetterboxHeight=2400 isUserFullscreenOverrideEnabled=false isSystemFullscreenOverrideEnabled=false cameraCompatControlState=hidden}}, pipTask = null, remoteTransition = null, displayChange = null, flags = 0, debugId = 98 }
+08-02 01:19:22.253 20125 20125 D DynamitePackage: Instantiating com.google.android.gms.ads.ChimeraAdOverlayCreatorImpl
+08-02 01:19:22.255   534   534 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+08-02 01:19:22.258 20125 20125 I DynamiteModule: Considering local module com.google.android.gms.ads.dynamite:0 and remote module com.google.android.gms.ads.dynamite:242402501
+08-02 01:19:22.258 20125 20125 I DynamiteModule: Selected remote version of com.google.android.gms.ads.dynamite, version >= 242402501
+08-02 01:19:22.262 20125 20125 I ContentCaptureHelper: Setting logging level to OFF
+08-02 01:19:22.266  1604  3945 W WindowManager: Failed looking up window sessipon=Session{2ef0f5f 20125:u0a10245} callers=com.android.server.wm.WindowManagerService.windowForClientLocked:6149 com.android.server.wm.Session.updateRequestedVisibleTypes:749 android.view.IWindowSession$Stub.onTransact:1064
+08-02 01:19:22.275  1604  3944 D CoreBackPreview: Window{a9001e u0 com.customsolutions.android.phonelink/com.google.android.gms.ads.AdActivity}: Setting back callback OnBackInvokedCallbackInfo{mCallback=android.window.IOnBackInvokedCallback$Stub$Proxy@d61002a, mPriority=0, mIsAnimationCallback=false}
+08-02 01:19:22.278 20125 20360 D TrafficStats: tagSocket(374) with statsTag=0xffffffff, statsUid=-1
+08-02 01:19:22.283   535   535 W gralloc4: Unable to set buffer name VRI[AdActivity]#6(BLAST Consumer)6: File name too long
+08-02 01:19:22.284   535   535 W gralloc4: Unable to set buffer name VRI[AdActivity]#6(BLAST Consumer)6: File name too long
+08-02 01:19:22.284   535   535 W gralloc4: Unable to set buffer name VRI[AdActivity]#6(BLAST Consumer)6: File name too long
+08-02 01:19:22.285   535   535 W gralloc4: Unable to set buffer name VRI[AdActivity]#6(BLAST Consumer)6: File name too long
+08-02 01:19:22.293  1604  1688 I ActivityTaskManager: Displayed com.customsolutions.android.phonelink/com.google.android.gms.ads.AdActivity for user 0: +70ms
+08-02 01:19:22.293  2095  2118 V WindowManagerShell: onTransitionReady (#98) android.os.BinderProxy@570a1f1: {id=98 t=OPEN f=0x0 trk=0 opt={t=FROM_STYLE} r=[0@Point(0, 0)] c=[{null m=OPEN f=TRANSLUCENT|FILLS_TASK leash=Surface(name=ActivityRecord{37b875d u0 com.customsolutions.android.phonelink/com.google.android.gms.ads.AdActivity t64})/@0x940a344 sb=Rect(0, 0 - 0, 0) eb=Rect(0, 0 - 1080, 2400) d=-1->0 r=-1->0:-1 component=com.customsolutions.android.phonelink/com.google.android.gms.ads.AdActivity}]}
+08-02 01:19:22.293  2095  2118 V WindowManagerShell: Playing animation for (#98) android.os.BinderProxy@570a1f1@0
+08-02 01:19:22.293  2095  2118 V WindowManagerShell:  try handler com.android.wm.shell.transition.DefaultMixedHandler@5665826
+08-02 01:19:22.293  2095  2118 V WindowManagerShell:  try handler com.android.wm.shell.keyguard.KeyguardTransitionHandler@ed34c67
+08-02 01:19:22.293  2095  2118 V WindowManagerShell:  try handler com.android.wm.shell.pip.PipTransition@9e4366e
+08-02 01:19:22.293  2095  2118 V WindowManagerShell:  try handler com.android.wm.shell.activityembedding.ActivityEmbeddingController@5d4e10f
+08-02 01:19:22.293  2095  2118 V WindowManagerShell:  try handler com.android.wm.shell.recents.RecentsTransitionHandler@8d0959c
+08-02 01:19:22.293  2095  2118 V ShellRecents: RecentsTransitionHandler.startAnimation: no controller found
+08-02 01:19:22.293  2095  2118 V WindowManagerShell:  try handler com.android.wm.shell.splitscreen.StageCoordinator@69338c6
+08-02 01:19:22.293  2095  2118 V WindowManagerShell:  try handler com.android.wm.shell.transition.RemoteTransitionHandler@10d6ba5
+08-02 01:19:22.293  2095  2118 V WindowManagerShell: Transition doesn't have explicit remote, search filters for match for {id=98 t=OPEN f=0x0 trk=0 opt={t=FROM_STYLE} r=[0@Point(0, 0)] c=[{null m=OPEN f=TRANSLUCENT|FILLS_TASK leash=Surface(name=ActivityRecord{37b875d u0 com.customsolutions.android.phonelink/com.google.android.gms.ads.AdActivity t64})/@0x940a344 sb=Rect(0, 0 - 0, 0) eb=Rect(0, 0 - 1080, 2400) d=-1->0 r=-1->0:-1 component=com.customsolutions.android.phonelink/com.google.android.gms.ads.AdActivity}]}
+08-02 01:19:22.293  1604  1688 V WindowManager: Sent Transition (#98) createdAt=08-02 01:19:22.221 via request=TransitionRequestInfo { type = OPEN, triggerTask = TaskInfo{userId=0 taskId=64 displayId=0 isRunning=true baseIntent=Intent { flg=0x34000000 cmp=com.customsolutions.android.phonelink/.RingerActivity } baseActivity=ComponentInfo{com.customsolutions.android.phonelink/com.customsolutions.android.phonelink.RingerActivity} topActivity=ComponentInfo{com.customsolutions.android.phonelink/com.google.android.gms.ads.AdActivity} origActivity=null realActivity=ComponentInfo{com.customsolutions.android.phonelink/com.customsolutions.android.phonelink.RingerActivity} numActivities=2 lastActiveTime=476919941 supportsMultiWindow=true resizeMode=1 isResizeable=true minWidth=-1 minHeight=-1 defaultMinSize=220 token=WCT{RemoteToken{60554c7 Task{f72171 #64 type=standard A=10245:com.customsolutions.android.phonelink}}} topActivityType=1 pictureInPictureParams=null shouldDockBigOverlays=false launchIntoPipHostTaskId=-1 lastParentTaskIdBeforePip=-1 displayCutoutSafeInsets=Rect(0, 118 - 0, 0) topActivityInfo=ActivityInfo{689edc9 com.google.android.gms.ads.AdActivity} launchCookies=[] positionInParent=Point(0, 0) parentTaskId=-1 isFocused=true isVisible=true isVisibleRequested=true isSleeping=false locusId=null displayAreaFeatureId=1 isTopActivityTransparent=true appCompatTaskInfo=AppCompatTaskInfo { topActivityInSizeCompat=false topActivityEligibleForLetterboxEducation= false isLetterboxDoubleTapEnabled= false topActivityEligibleForUserAspectRatioButton= false topActivityBoundsLetterboxed= false isFromLetterboxDoubleTap= false topActivityLetterboxVerticalPosition= -1 topActivityLetterboxHorizontalPosition= -1 topActivityLetterboxWidth=1080 topActivityLetterboxHeight=2400 isUserFullscreenOverrideEnabled=false isSystemFullscreenOverrideEnabled=false cameraCompatControlState=hidden}}, pipTask = null, remoteTransition = null, displayChange = null, flags = 0, debugId = 98 }
+08-02 01:19:22.294  2095  2118 V WindowManagerShell:  Checking filter Pair{{types=[] flags=0x0] notFlags=0x0 checks=[{atype=dream independent=true modes=[OPEN,TO_FRONT] flags=NONE mustBeTask=false order=ANY topActivity=null},{atype=home independent=true modes=[CLOSE,TO_BACK] flags=NONE mustBeTask=false order=ANY topActivity=null}]} RemoteTransition { remoteTransition = android.window.IRemoteTransition$Stub$Proxy@4126ff4, appThread = android.app.IApplicationThread$Stub$Proxy@4ae331d, debugName = LauncherToDream }}
+08-02 01:19:22.294  1604  1688 V WindowManager:     startWCT=WindowContainerTransaction { changes = {} hops = [] errorCallbackToken=null taskFragmentOrganizer=null }
+08-02 01:19:22.294  2095  2118 V WindowManagerShell:  Checking filter Pair{{types=[] flags=0x0] notFlags=0x100 checks=[{atype=home independent=true modes=[OPEN,TO_FRONT] flags=NONE mustBeTask=false order=TOP topActivity=ComponentInfo{com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity}},{atype=standard independent=true modes=[CLOSE,TO_BACK] flags=NONE mustBeTask=false order=ANY topActivity=null}]} RemoteTransition { remoteTransition = android.window.IRemoteTransition$Stub$Proxy@72cc992, appThread = android.app.IApplicationThread$Stub$Proxy@c687f63, debugName = QuickstepLaunchHome }}
+08-02 01:19:22.294  2095  2118 V WindowManagerShell:  Delegate animation for (#98) to null
+08-02 01:19:22.294  2095  2118 V WindowManagerShell:  try handler com.android.wm.shell.transition.DefaultTransitionHandler@de8a546
+08-02 01:19:22.294  1604  1688 V WindowManager:     info={id=98 t=OPEN f=0x0 trk=0 opt={t=FROM_STYLE} r=[0@Point(0, 0)] c=[
+08-02 01:19:22.294  1604  1688 V WindowManager:         {null m=OPEN f=TRANSLUCENT|FILLS_TASK leash=Surface(name=ActivityRecord{37b875d u0 com.customsolutions.android.phonelink/com.google.android.gms.ads.AdActivity t64})/@0xb4e2593 sb=Rect(0, 0 - 0, 0) eb=Rect(0, 0 - 1080, 2400) d=-1->0 r=-1->0:-1 component=com.customsolutions.android.phonelink/com.google.android.gms.ads.AdActivity}
+
